@@ -4,8 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-* 🌍  I'm based in UdonThani, Thailand
+* I'm based in UdonThani, Thailand
 * ✉️  You can contact me at [workspace.em555@gmail.com](mailto:workspace.em555@gmail.com)
+* 🌍 https://deekrub.com
 
 ### Skills
 
